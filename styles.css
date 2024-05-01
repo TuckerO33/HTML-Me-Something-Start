@@ -4,12 +4,12 @@ body {
     display: block;
   }
 
-  #mainHeading {
-    font-family: Georgia, 'Times New Roman', Times, serif
+#mainHeading {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
   }
 
-  .funParagraph {
-    color:Tomato;
-    background-color: yellow;
-    
+.funParagraph {
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
   }
